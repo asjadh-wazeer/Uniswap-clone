@@ -28,6 +28,7 @@ import React from 'react'
             const HeaderMd = () => {
             return (
                 <>
+                
             <div className="bg-white w-5/12 mx-auto p-3 rounded-2xl ">
             <div className="header__head flex items-center justify-between bg-white my-1 mb-3">
                 <h4 className="font-semibold text-2xl bg-white">Swap</h4>
@@ -44,8 +45,11 @@ import React from 'react'
             </div>
             
             <h3 className="header__button bg-pink-200 text-pink-700 flex justify-center py-4 rounded-3xl text-xl font-semibold">Connect Wallet</h3>
+
+            
             
         </div>
+        
             </>
             )
             };
@@ -87,6 +91,7 @@ import React from 'react'
                   {
                   /*Tablet Screen*/
                   <HeaderMd />
+                  
                   }
                </div>
                <div className="hidden lg:flex py-10">
