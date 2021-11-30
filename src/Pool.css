@@ -1,0 +1,65 @@
+.position__box__left {
+    background-color: deeppink;
+    width: fit-content;
+    padding: 8px 28px;
+    border-radius: 25px;
+    color: white;
+    size: 22px;
+}
+.position__box__right {
+    background-color: rgb(55, 3, 71);
+    width: fit-content;
+    padding: 8px 24px;
+    border-radius: 25px;
+    color: black;
+    size: 22px;
+    background-color: white;
+}
+.wallet__button {
+    background-color: deeppink;
+    width: fit-content;
+    padding: 8px 28px;
+    border-radius: 25px;
+    color: white; 
+}
+.middle__box {
+    text-align: center;
+    padding-top: 28px;
+    padding-bottom: 34px;
+}
+.view__box {
+    
+}
+.text__box__left,
+.text__box__left__head,
+.text__box__left__para,
+.text__box__left__head__para {
+     background-image: linear-gradient(
+		to right,
+		#fab6ef 0%, 
+		#f0a9fa 51%,
+		#fd80cd 100%
+		); 
+}
+
+.text__box__right,
+.text__box__right__head,
+.text__box__right__para,
+.text__box__right__head__icon {
+     background-image: linear-gradient(
+		to right,
+		#b2aef3 0%, 
+		#fdecff 51%,
+		#a4d0f5 100%
+		); 
+}
+.pool__text__box__left {
+    border-radius: 25px;
+}
+.pool__text__box__right {
+    border-radius: 25px;
+}
+.pool__large {
+    width: 70%;
+    margin: 0 auto;
+}
