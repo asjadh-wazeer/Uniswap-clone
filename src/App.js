@@ -6,12 +6,15 @@ import Home from './Home';
 import Sett from './Sett';
 import Switch from './Switch';
 import Pool from './Pool';
+import TokenModel from './TokenModel'
 
 
 function App() {
   return (
     <div className="App">
-      <Pool />
+
+<Home />
+      {/* <TokenModel /> */}
 
 
       {/* <Home /> */}
